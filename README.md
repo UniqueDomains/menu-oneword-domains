@@ -1,0 +1,2 @@
+# menu-oneword-domains
+List of menu one word domain names with availability, expiration date, attractiveness, demand score.
