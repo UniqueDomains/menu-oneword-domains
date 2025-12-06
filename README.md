@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .MENU one-word domains still available to buy.
 
-This dataset contains 4,757 .MENU one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,754 .MENU one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.MENU one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=menu-oneword-domains&utm_content=description.top) (4,756) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,16 +13,16 @@ If you want to search & filters the complete database of [.MENU one word domains
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/menu-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/menu-oneword-domains/blob/main/menu.csv"><b>⬇️ CSV (4.76K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/menu-oneword-domains/blob/main/menu.json"><b>⬇️ JSON (4.76K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/menu-oneword-domains/blob/main/menu.csv"><b>⬇️ CSV (4.75K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/menu-oneword-domains/blob/main/menu.json"><b>⬇️ JSON (4.75K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=menu-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.76K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
 | Domain          | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | --------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.menu        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.menu      | available | 88       | 32%    | 5      |           |         |         |
+| aaa.menu        | premium   | 70       | 38%    | 3      |           |         |         |
+| aaron.menu      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.menu  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.menu      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.menu  | available | 58       | 7%     | 9      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.MENU one word domains
 | abatic.menu     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.menu    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.menu   | available | 50       | 1%     | 8      |           |         |         |
-| abc.menu        | available | 102      | 41%    | 3      |           |         |         |
+| abc.menu        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.menu  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.menu  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.menu | available | 56       | 1%     | 10     |           |         |         |
@@ -54,8 +54,8 @@ If you want to search & filters the complete database of [.MENU one word domains
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/menu-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/menu-oneword-domains/blob/main/menu.csv"><b>⬇️ CSV (4.76K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/menu-oneword-domains/blob/main/menu.json"><b>⬇️ JSON (4.76K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/menu-oneword-domains/blob/main/menu.csv"><b>⬇️ CSV (4.75K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/menu-oneword-domains/blob/main/menu.json"><b>⬇️ JSON (4.75K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=menu-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.76K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
