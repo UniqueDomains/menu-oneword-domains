@@ -69,7 +69,7 @@ print(df.head())
 | agile.menu      | premium   | $38.98    | —             | 92             | 41     | 5      | namecheap             |
 | seventeen.menu  | available | $38.98    | —             | 84             | 62     | 9      | namecheap             |
 | startup.menu    | resell    | —         | —             | 82             | 47     | 7      | Go Canada Domains Inc |
-| gather.menu     | premium   | $125      | $125          | 96             | 38     | 6      | name.com              |
+| gather.menu     | premium   | $125      | $125          | 96             | 39     | 6      | name.com              |
 | athletics.menu  | available | $38.98    | —             | 69             | 52     | 9      | namecheap             |
 | safe.menu       | resell    | —         | —             | 84             | 46     | 4      | Tucows Domains Inc.   |
 | abstract.menu   | premium   | $44.99    | $46.99        | 108            | 31     | 8      | name.com              |
@@ -79,7 +79,7 @@ print(df.head())
 | genius.menu     | available | $38.98    | —             | 98             | 45     | 6      | namecheap             |
 | tree.menu       | resell    | —         | —             | 90             | 42     | 4      | GoDaddy.com, LLC      |
 | four.menu       | premium   | $81.25    | $81.25        | 66             | 30     | 4      | name.com              |
-| forge.menu      | available | $38.98    | —             | 62             | 45     | 5      | namecheap             |
+| forge.menu      | available | $38.98    | —             | 62             | 44     | 5      | namecheap             |
 | galaxy.menu     | resell    | —         | —             | 76             | 42     | 6      | GoDaddy.com, LLC      |
 | services.menu   | premium   | $136.50   | $136.50       | 72             | 29     | 8      | namecheap             |
 | strategy.menu   | available | $38.98    | —             | 74             | 43     | 8      | namecheap             |
