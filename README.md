@@ -1,22 +1,22 @@
-# Available .MENU One-Word Domains (9,612)
+# Available .MENU One-Word Domains (11,979)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C612%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C612%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C979%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .menu one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .menu one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,979 domains** on the canonical page below.
 
-**Public extract:** 9,612 rows · **Live catalog:** 9,612 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,979 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/menu`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .MENU one-word domain 
 
 ### Files
 
-- `menu.csv` — public CSV extract (9,612 rows)
-- `menu.json` — public JSON extract (9,612 rows)
+- `menu.csv` — public CSV extract (1,000 rows)
+- `menu.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar             |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------- |
-| nationwide.menu | available | $38.98    | —             | 76             | 66     | 10     | namecheap             |
-| bot.menu        | resell    | —         | —             | 98             | 53     | 3      | Dynadot Inc           |
-| agile.menu      | premium   | $38.98    | —             | 92             | 41     | 5      | namecheap             |
-| seventeen.menu  | available | $38.98    | —             | 84             | 62     | 9      | namecheap             |
-| startup.menu    | resell    | —         | —             | 82             | 47     | 7      | Go Canada Domains Inc |
-| gather.menu     | premium   | $125      | $125          | 96             | 39     | 6      | name.com              |
-| athletics.menu  | available | $38.98    | —             | 69             | 52     | 9      | namecheap             |
-| safe.menu       | resell    | —         | —             | 84             | 46     | 4      | Tucows Domains Inc.   |
-| abstract.menu   | premium   | $44.99    | $46.99        | 108            | 31     | 8      | name.com              |
-| law.menu        | available | $38.98    | —             | 82             | 46     | 3      | namecheap             |
-| random.menu     | resell    | —         | —             | 84             | 46     | 6      | GoDaddy.com, LLC      |
-| choice.menu     | premium   | $81.25    | $81.25        | 74             | 31     | 6      | name.com              |
-| genius.menu     | available | $38.98    | —             | 98             | 45     | 6      | namecheap             |
-| tree.menu       | resell    | —         | —             | 90             | 42     | 4      | GoDaddy.com, LLC      |
-| four.menu       | premium   | $81.25    | $81.25        | 66             | 30     | 4      | name.com              |
-| forge.menu      | available | $38.98    | —             | 62             | 44     | 5      | namecheap             |
-| galaxy.menu     | resell    | —         | —             | 76             | 42     | 6      | GoDaddy.com, LLC      |
-| services.menu   | premium   | $136.50   | $136.50       | 72             | 29     | 8      | namecheap             |
-| strategy.menu   | available | $38.98    | —             | 74             | 43     | 8      | namecheap             |
-| people.menu     | resell    | —         | —             | 102            | 41     | 6      | GoDaddy.com, LLC      |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| regions.menu       | available | $38.98    | —             | 64             | 59     | 7      | namecheap |
+| pops.menu          | premium   | $41.30    | $41.30        | 74             | 24     | 4      | namesilo  |
+| keepthechange.menu | available | $38.98    | —             | 46             | 59     | 15     | namecheap |
+| tracks.menu        | premium   | $44.99    | —             | 60             | 18     | 6      | name.com  |
+| tokens.menu        | available | $27.99    | $27.99        | 51             | 36     | 6      | namesilo  |
+| skies.menu         | premium   | $44.99    | —             | 63             | 11     | 5      | name.com  |
+| aliens.menu        | available | $27.99    | $27.99        | 56             | 35     | 6      | namesilo  |
+| HoChiMinhCity.menu | premium   | $41.30    | $41.30        | 64             | 7      | 16     | namesilo  |
+| payments.menu      | available | $38.98    | —             | 58             | 33     | 8      | namecheap |
+| weddingcake.menu   | premium   | $125      | —             | 85             | 5      | 12     | name.com  |
+| spaces.menu        | available | $38.98    | —             | 54             | 30     | 6      | namecheap |
+| YouTube.menu       | premium   | —         | —             | 94             | 96     | 7      | —         |
+| heroes.menu        | available | $38.98    | —             | 68             | 29     | 6      | namecheap |
+| Walmart.menu       | premium   | —         | —             | 92             | 94     | 7      | —         |
+| trades.menu        | available | $27.99    | $27.99        | 71             | 26     | 6      | namesilo  |
+| IsleofMan.menu     | premium   | —         | —             | 62             | 91     | 11     | —         |
+| sites.menu         | available | $38.98    | —             | 53             | 26     | 5      | namecheap |
+| CocaCola.menu      | premium   | —         | —             | 92             | 82     | 9      | —         |
+| destination.menu   | available | $38.98    | —             | 90             | 25     | 11     | namecheap |
+| RedSox.menu        | premium   | —         | —             | 72             | 60     | 7      | —         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,612-row public sample | 9,612 live domains                               |
+| 1,000-row public sample | 11,979 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MENU One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MENU One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
