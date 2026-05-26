@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .menu one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,458 domains · **Median ask:** $36.98 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/menu`  
 **Best for:** founders, investors, studios
 
@@ -82,7 +82,7 @@ print(df.head())
 | IsleofMan.menu     | premium   | —         | —             | 62             | 91     | 11     | —         |
 | sites.menu         | available | $38.98    | —             | 53             | 26     | 5      | namecheap |
 | CocaCola.menu      | premium   | —         | —             | 92             | 82     | 9      | —         |
-| destination.menu   | available | $38.98    | —             | 90             | 25     | 11     | namecheap |
+| destination.menu   | available | $38.98    | —             | 90             | 24     | 11     | namecheap |
 | RedSox.menu        | premium   | —         | —             | 72             | 60     | 7      | —         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MENU One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MENU One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
