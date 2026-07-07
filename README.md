@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .menu one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,458 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,458 domains · **Median ask:** $36.98 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,458 domains · **Median ask:** $31.24 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/menu`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/menu`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .MENU one-word domain 
 
 ### Files
 
-- `menu.csv` — public CSV extract (1,000 rows)
-- `menu.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `menu.csv`, public CSV extract (1,000 rows)
+- `menu.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| regions.menu       | available | $38.98    | —             | 64             | 59     | 7      | namecheap |
-| pops.menu          | premium   | $41.30    | $41.30        | 74             | 24     | 4      | namesilo  |
-| keepthechange.menu | available | $38.98    | —             | 46             | 59     | 15     | namecheap |
-| tracks.menu        | premium   | $44.99    | —             | 60             | 18     | 6      | name.com  |
-| tokens.menu        | available | $27.99    | $27.99        | 51             | 36     | 6      | namesilo  |
-| skies.menu         | premium   | $44.99    | —             | 63             | 11     | 5      | name.com  |
-| aliens.menu        | available | $27.99    | $27.99        | 56             | 35     | 6      | namesilo  |
-| wraps.menu         | premium   | $41.30    | $41.30        | 53             | 11     | 5      | namesilo  |
-| payments.menu      | available | $38.98    | —             | 58             | 33     | 8      | namecheap |
-| HoChiMinhCity.menu | premium   | $41.30    | $41.30        | 64             | 7      | 16     | namesilo  |
-| spaces.menu        | available | $38.98    | —             | 54             | 30     | 6      | namecheap |
-| YouTube.menu       | premium   | —         | —             | 94             | 96     | 7      | —         |
-| heroes.menu        | available | $38.98    | —             | 68             | 29     | 6      | namecheap |
-| Walmart.menu       | premium   | —         | —             | 92             | 94     | 7      | —         |
-| trades.menu        | available | $27.99    | $27.99        | 71             | 26     | 6      | namesilo  |
-| IsleofMan.menu     | premium   | —         | —             | 62             | 91     | 11     | —         |
-| sites.menu         | available | $38.98    | —             | 53             | 26     | 5      | namecheap |
-| CocaCola.menu      | premium   | —         | —             | 92             | 82     | 9      | —         |
-| destination.menu   | available | $38.98    | —             | 90             | 24     | 11     | namecheap |
-| RedSox.menu        | premium   | —         | —             | 72             | 60     | 7      | —         |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| damn.menu     | available | $27.99    | $27.99        | high           | low    | 4      | namesilo         |
+| great.menu    | available | —         | —             | high           | high   | 5      | —                |
+| simple.menu   | available | —         | —             | high           | medium | 6      | —                |
+| jesus.menu    | available | —         | —             | high           | medium | 5      | —                |
+| brief.menu    | available | $27.99    | $27.99        | high           | low    | 5      | namesilo         |
+| eve.menu      | available | $38.98    | —             | high           | medium | 3      | namecheap        |
+| tree.menu     | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| launch.menu   | premium   | $77.35    | $77.35        | high           | low    | 6      | namesilo         |
+| ages.menu     | available | $27.99    | $27.99        | medium         | low    | 4      | namesilo         |
+| Scarlett.menu | premium   | $53.92    | $53.92        | medium         | low    | 8      | namesilo         |
+| bank.menu     | available | $27.99    | $27.99        | high           | low    | 4      | namesilo         |
+| blob.menu     | available | $27.99    | $27.99        | medium         | low    | 4      | namesilo         |
+| boat.menu     | available | $27.99    | $27.99        | high           | low    | 4      | namesilo         |
+| bomb.menu     | available | $38.98    | —             | medium         | low    | 4      | namecheap        |
+| bury.menu     | available | $27.99    | $27.99        | medium         | low    | 4      | namesilo         |
+| came.menu     | available | $27.99    | $27.99        | high           | low    | 4      | namesilo         |
+| coat.menu     | available | $27.99    | $27.99        | high           | low    | 4      | namesilo         |
+| cows.menu     | available | $38.98    | —             | medium         | low    | 4      | namecheap        |
+| cyan.menu     | available | $27.99    | $27.99        | high           | low    | 4      | namesilo         |
+| dave.menu     | available | $27.99    | $27.99        | high           | low    | 4      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .menu domains. The words range from direct food and service cues like breakfast.menu to broader dictionary terms like raise.menu, phrase.menu, and positive.menu. For founders, the main question is whether the word makes the .menu ending feel natural, memorable, and easy to trust. For investors, the focus is tighter: whether the term has clear commercial relevance, realistic resale appeal, and a low enough entry point relative to the median ask of 36.98. In this set, stronger names usually read cleanly, avoid ambiguity, and pair naturally with restaurant, dining, ordering, or hospitality use cases.
+Each domain in this set pairs a common, one-word noun or descriptor — like okay, correct, sorry, or come — with the .menu extension, a natural fit for restaurants, food delivery services, and digital menu products. With a median asking price around $31, these domains are accessible for early-stage brands while still offering distinct, memorable single-word identities. Because .menu is a newer, non-mainstream extension, availability tends to be broader for common words, but buyers should still verify trademark conflicts and compare renewal costs across registrars before purchasing.
 
-- Prefer words that make natural sense with .menu
-- Use price discipline around the 36.98 median ask
-- Check ambiguity in broad terms like phrase or positive
-- Favor memorable, commercial words like breakfast or raise
+- 12,458 one-word .menu domains available across this selection
+- $31 median asking price for short, memorable .menu names
+- Everyday words like half, okay, and great turn into ownable menu brands
+- Non-mainstream TLD status widens the price range — compare before buying
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MENU One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MENU One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
