@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .menu one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 24,760 domains · **Median ask:** $29.99 · **High-demand under $2,500:** 15
 
-**Last updated:** 2026-09-15
+**Last updated:** 2026-09-16
 **Canonical page:** `https://unique.domains/domains/tld/menu`
 **Best for:** founders, investors, studios
 
@@ -64,12 +64,6 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| gourmet.menu  | available | —         | —             | high           | low    | 7      | —                |
-| food.menu     | available | —         | —             | high           | low    | 4      | —                |
-| damn.menu     | available | $27.99    | $27.99        | high           | low    | 4      | namesilo         |
-| great.menu    | available | —         | —             | high           | high   | 5      | —                |
-| simple.menu   | available | —         | —             | high           | medium | 6      | —                |
-| jesus.menu    | available | —         | —             | high           | medium | 5      | —                |
 | eve.menu      | available | $38.98    | —             | high           | medium | 3      | namecheap        |
 | tree.menu     | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
 | launch.menu   | premium   | $77.35    | $77.35        | high           | low    | 6      | namesilo         |
@@ -84,6 +78,12 @@ print(df.head())
 | bomb.menu     | available | $38.98    | —             | medium         | low    | 4      | namecheap        |
 | buns.menu     | available | $27.99    | $27.99        | low            | low    | 4      | namesilo         |
 | bury.menu     | available | $27.99    | $27.99        | medium         | low    | 4      | namesilo         |
+| came.menu     | available | $27.99    | $27.99        | high           | low    | 4      | namesilo         |
+| coat.menu     | available | $27.99    | $27.99        | high           | low    | 4      | namesilo         |
+| cows.menu     | available | $38.98    | —             | medium         | low    | 4      | namecheap        |
+| cyan.menu     | available | $27.99    | $27.99        | high           | low    | 4      | namesilo         |
+| damn.menu     | available | $27.99    | $27.99        | high           | low    | 4      | namesilo         |
+| dave.menu     | available | $27.99    | $27.99        | high           | low    | 4      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -115,6 +115,7 @@ If this sample already feels useful, Unique Domains is where the exact search be
 - `registrar`, Registrar name when known.
 - `created_at`, Creation timestamp when known.
 - `expires_at`, Expiry timestamp when known.
+- `status_verified_at`, When status was last established against the registry. Null means never checked.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
@@ -132,6 +133,7 @@ See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 ## 🔄 Update policy
 
 - This repository is refreshed regularly from the same export pipeline used for public dataset repos.
+- The snapshot date above is when this file was written, not when each row was checked. Read `status_verified_at` for that: a name whose status was last established months ago is exported with its real date rather than the snapshot's.
 - The README count targets the live catalog count from the public landing response when available.
 - The CSV and JSON files contain the public extract only and may not match the full live catalog size.
 - Stable historical references should be published via GitHub Releases outside this repository snapshot.
@@ -142,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MENU One-Word Domains*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MENU One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
