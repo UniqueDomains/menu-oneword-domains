@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .menu one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 27,329 domains · **Median ask:** $29.73 · **High-demand under $2,500:** 15
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/menu`
 **Best for:** founders, investors, studios
 
@@ -64,11 +64,12 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| damn.menu     | available | $27.99    | $27.99        | high           | low    | 4      | namesilo         |
 | eve.menu      | available | $38.98    | —             | high           | medium | 3      | namecheap        |
 | tree.menu     | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
 | launch.menu   | premium   | $77.35    | $77.35        | high           | low    | 6      | namesilo         |
 | ages.menu     | available | $27.99    | $27.99        | medium         | low    | 4      | namesilo         |
-| Scarlett.menu | premium   | $53.92    | $53.92        | medium         | low    | 8      | namesilo         |
+| scarlett.menu | premium   | $53.92    | $53.92        | medium         | low    | 8      | namesilo         |
 | airy.menu     | available | $27.99    | $27.99        | low            | low    | 4      | namesilo         |
 | anal.menu     | available | $27.99    | $27.99        | low            | low    | 4      | namesilo         |
 | asat.menu     | available | $27.99    | $27.99        | low            | low    | 4      | namesilo         |
@@ -82,7 +83,6 @@ print(df.head())
 | coat.menu     | available | $27.99    | $27.99        | high           | low    | 4      | namesilo         |
 | cows.menu     | available | $38.98    | —             | medium         | low    | 4      | namecheap        |
 | cyan.menu     | available | $27.99    | $27.99        | high           | low    | 4      | namesilo         |
-| damn.menu     | available | $27.99    | $27.99        | high           | low    | 4      | namesilo         |
 | dave.menu     | available | $27.99    | $27.99        | high           | low    | 4      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MENU One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MENU One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
