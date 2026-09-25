@@ -1,10 +1,10 @@
-# Available .MENU One-Word Domains (31,064)
+# Available .MENU One-Word Domains (13,957)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C064%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-13%2C957%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .menu one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,064 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **13,957 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,064 domains · **Median ask:** $29.83 · **High-demand under $2,500:** 12
+**Public extract:** 1,000 rows · **Live catalog:** 13,957 domains · **Median ask:** $29.55 · **High-demand under $2,500:** 12
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/menu`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| come.menu     | premium   | $53.92    | $53.92        | high           | low    | 4      | namesilo         |
-| jesus.menu    | available | —         | —             | high           | medium | 5      | —                |
-| eve.menu      | available | $38.98    | —             | high           | medium | 3      | namecheap        |
-| tree.menu     | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
-| ages.menu     | available | $27.99    | $27.99        | medium         | low    | 4      | namesilo         |
-| four.menu     | premium   | $77.35    | $77.35        | low            | low    | 4      | namesilo         |
-| airy.menu     | available | $27.99    | $27.99        | low            | low    | 4      | namesilo         |
-| launch.menu   | premium   | $77.35    | $77.35        | medium         | low    | 6      | namesilo         |
-| anal.menu     | available | $27.99    | $27.99        | low            | low    | 4      | namesilo         |
-| scarlett.menu | premium   | $53.92    | $53.92        | medium         | low    | 8      | namesilo         |
-| asat.menu     | available | $27.99    | $27.99        | low            | low    | 4      | namesilo         |
-| bank.menu     | available | $27.99    | $27.99        | high           | low    | 4      | namesilo         |
-| blob.menu     | available | $27.99    | $27.99        | medium         | low    | 4      | namesilo         |
-| boat.menu     | available | $27.99    | $27.99        | high           | low    | 4      | namesilo         |
-| bomb.menu     | available | $38.98    | —             | medium         | low    | 4      | namecheap        |
-| buns.menu     | available | $27.99    | $27.99        | low            | low    | 4      | namesilo         |
-| bury.menu     | available | $27.99    | $27.99        | medium         | low    | 4      | namesilo         |
-| came.menu     | available | $27.99    | $27.99        | high           | low    | 4      | namesilo         |
-| coat.menu     | available | $27.99    | $27.99        | high           | low    | 4      | namesilo         |
-| cows.menu     | available | $38.98    | —             | medium         | low    | 4      | namecheap        |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------ |
+| terminal.menu | available | $27.99    | $27.99        | high           | low    | 8      | namesilo                 |
+| ccc.menu      | available | $27.99    | $27.99        | high           | medium | 3      | namesilo                 |
+| tree.menu     | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC         |
+| come.menu     | premium   | $53.92    | $53.92        | high           | low    | 4      | namesilo                 |
+| lot.menu      | available | $27.99    | $27.99        | high           | low    | 3      | namesilo                 |
+| monthly.menu  | resell    | —         | —             | high           | low    | 7      | Go Australia Domains Inc |
+| function.menu | premium   | $116      | $116          | high           | low    | 8      | namesilo                 |
+| ages.menu     | available | $27.99    | $27.99        | medium         | low    | 4      | namesilo                 |
+| scarlett.menu | premium   | $53.92    | $53.92        | high           | low    | 8      | namesilo                 |
+| airy.menu     | available | $27.99    | $27.99        | high           | low    | 4      | namesilo                 |
+| also.menu     | available | $27.99    | $27.99        | high           | low    | 4      | namesilo                 |
+| anal.menu     | available | $27.99    | $27.99        | high           | low    | 4      | namesilo                 |
+| asat.menu     | available | $27.99    | $27.99        | high           | low    | 4      | namesilo                 |
+| aunt.menu     | available | $27.99    | $27.99        | high           | low    | 4      | namesilo                 |
+| awol.menu     | available | $27.99    | $27.99        | high           | low    | 4      | namesilo                 |
+| bank.menu     | available | $27.99    | $27.99        | high           | low    | 4      | namesilo                 |
+| blob.menu     | available | $27.99    | $27.99        | high           | low    | 4      | namesilo                 |
+| boat.menu     | available | $27.99    | $27.99        | high           | low    | 4      | namesilo                 |
+| boer.menu     | available | $27.99    | $27.99        | high           | low    | 4      | namesilo                 |
+| bomb.menu     | available | $38.98    | —             | high           | low    | 4      | namecheap                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,064 live domains                        |
+| 1,000-row public sample | 13,957 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 12 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MENU One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MENU One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
