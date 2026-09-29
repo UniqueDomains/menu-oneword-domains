@@ -1,10 +1,10 @@
-# Available .MENU One-Word Domains (22,204)
+# Available .MENU One-Word Domains (23,500)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C204%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C500%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .menu one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,204 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,500 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,204 domains · **Median ask:** $29.97 · **High-demand under $2,500:** 28
+**Public extract:** 1,000 rows · **Live catalog:** 23,500 domains · **Median ask:** $29.88 · **High-demand under $2,500:** 30
 
-**Last updated:** 2026-09-28
+**Last updated:** 2026-09-29
 **Canonical page:** `https://unique.domains/domains/tld/menu`
 **Best for:** founders, investors, studios
 
@@ -66,13 +66,15 @@ print(df.head())
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | ccc.menu       | available | $27.99    | $27.99        | high           | medium | 3      | namesilo  |
 | tops.menu      | premium   | $77.35    | $77.35        | high           | low    | 4      | namesilo  |
-| aare.menu      | available | $34.98    | $38.98        | medium         | low    | 4      | namecheap |
+| erp.menu       | available | $34.98    | $38.98        | high           | medium | 3      | namecheap |
 | chavez.menu    | premium   | $89.70    | $89.70        | high           | low    | 6      | namecheap |
-| abls.menu      | available | $27.99    | $27.99        | medium         | low    | 4      | namesilo  |
+| tex.menu       | available | $27.99    | $27.99        | medium         | low    | 3      | namesilo  |
 | angolan.menu   | premium   | $53.92    | $53.92        | high           | low    | 7      | namesilo  |
-| abor.menu      | available | $27.99    | $27.99        | medium         | low    | 4      | namesilo  |
+| aare.menu      | available | $34.98    | $38.98        | medium         | low    | 4      | namecheap |
 | unlimited.menu | premium   | $53.92    | $53.92        | high           | low    | 9      | namesilo  |
-| acts.menu      | available | $27.99    | $27.99        | high           | low    | 4      | namesilo  |
+| abls.menu      | available | $27.99    | $27.99        | medium         | low    | 4      | namesilo  |
+| abor.menu      | available | $27.99    | $27.99        | medium         | low    | 4      | namesilo  |
+| acts.menu      | available | $34.98    | $38.98        | high           | low    | 4      | namecheap |
 | adad.menu      | available | $27.99    | $27.99        | medium         | low    | 4      | namesilo  |
 | agal.menu      | available | $27.99    | $27.99        | medium         | low    | 4      | namesilo  |
 | akha.menu      | available | $27.99    | $27.99        | medium         | low    | 4      | namesilo  |
@@ -82,8 +84,6 @@ print(df.head())
 | bata.menu      | available | $34.98    | $38.98        | medium         | low    | 4      | namecheap |
 | berg.menu      | available | $27.99    | $27.99        | high           | low    | 4      | namesilo  |
 | bowl.menu      | available | $34.98    | $38.98        | high           | low    | 4      | namecheap |
-| burp.menu      | available | $27.99    | $27.99        | high           | low    | 4      | namesilo  |
-| coma.menu      | available | $27.99    | $27.99        | high           | low    | 4      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 22,204 live domains                        |
+| 1,000-row public sample | 23,500 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 28 high-demand names under $2,500          |
+| Basic exported fields   | 30 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MENU One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MENU One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
